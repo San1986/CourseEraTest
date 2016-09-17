@@ -1,0 +1,57 @@
+body {
+	color: #ffff;
+	font-size: 16px;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border:0;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.navbar-default .navbar-toggle {
+	color: black;
+}
+#nav-list {
+	margin-top: 10px;
+}
+
+#nav-list a {
+	color: #61122f;
+	text-align: center;
+}
+
+#nav-list a:hover {
+	color: gray;
+}
+
+#nav-list a span {
+	font-size: 1.8em;
+}
+
+#div-jumbotron {
+	margin-top: 0px;
+	background-color:#61122f; 
+}
+
+#div-jumbotron h1 {
+	color: white;
+} 
+
+#div-recipe-chicken {
+	background-color: red;
+}
+
+#div-recipe-fish {
+	background-color: gray;
+}
+
+#div-recipe-veg {
+	background-color: green;
+}
